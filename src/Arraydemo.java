@@ -12,6 +12,7 @@ public class Arraydemo {
         for(int i=0;i<names.length;i++){
             System.out.println(i + " " + names[i]);
             System.out.println();
+            // Hello
         }
     }
 }
